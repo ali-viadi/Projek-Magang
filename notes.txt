@@ -1,0 +1,5 @@
+# untuk running project express js menggunakan command :
+
+npm run dev
+
+abis itu selesai projek anda berjalan di http://localhost:5173
